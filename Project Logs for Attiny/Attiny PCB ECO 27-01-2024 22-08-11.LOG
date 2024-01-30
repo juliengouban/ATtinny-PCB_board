@@ -1,0 +1,172 @@
+Added Component: Designator=J1(TE_87224-6_0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/5cdf6967ba71a8d5/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=87224&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER VERT .100 6POS 15AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "A26551-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/5cdf6967ba71a8d5/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "HDRV6W64P254_1X6_1483X64X229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-872246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number of positions"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CONN_PTH_HDR6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "87224-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.04212257321"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A26551-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "571-872246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-65°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-65°C"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Sullins_PPTC101LFBN-RC_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category A3C16Ecb93907806"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category Bda670Ac885E6661"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/438243a39a4aeeed/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.sullinscorp.com/drawings/78_P(N)PxCxxxLFBN-RC,_10492-H.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER FEMALE 10POS.1" TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "S7008-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/438243a39a4aeeed/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing_material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "a3ed6ae3a4397c2a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HDR10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PPTC101LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.506714616829"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7008-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol 0 0"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "integrated circuit"; VariantName = "[No Variations]"
+Added Component: Designator=J3(Sullins_PPTC101LFBN-RC_0)
+Add component (AddParameter): Name = "Category 75Fab8F04590Ae3D"; Value = "Connectors and Adapters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category 0836C53C3D42D3F1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category A3C16Ecb93907806"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category Bda670Ac885E6661"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category E7012A0Bd22E3Cc6"; Value = "Headers & Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/438243a39a4aeeed/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.sullinscorp.com/drawings/78_P(N)PxCxxxLFBN-RC,_10492-H.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "contact_material"; Value = "Phosphor Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER FEMALE 10POS.1" TIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part Number"; Value = "S7008-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/438243a39a4aeeed/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "housing_material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Num Pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "number_of_rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart Part Number"; Value = "a3ed6ae3a4397c2a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HDR10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PPTC101LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "pin_pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.506714616829"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "S7008-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol 0 0"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "integrated circuit"; VariantName = "[No Variations]"
+Added Component: Designator=U1(20P3)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-AD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revA, Dec-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "20-lead (0.300"/7.62mm Wide) Plastic Dual Inline Package (PDIP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "20P3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revC, Jan-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ATTINY2313A-PU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J1-1
+Added Pin To Net: NetName=+5 Pin=J3-10
+Added Pin To Net: NetName=+5 Pin=U1-20
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=J1-4
+Added Pin To Net: NetName=MISO Pin=U1-18
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-3
+Added Pin To Net: NetName=MOSI Pin=J2-7
+Added Pin To Net: NetName=MOSI Pin=J2-8
+Added Pin To Net: NetName=MOSI Pin=U1-17
+Added Net: Name=MOSI
+Added Pin To Net: NetName=PA0 Pin=J3-7
+Added Pin To Net: NetName=PA0 Pin=U1-5
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=J3-8
+Added Pin To Net: NetName=PA1 Pin=U1-4
+Added Net: Name=PA1
+Added Pin To Net: NetName=PB0 Pin=J2-2
+Added Pin To Net: NetName=PB0 Pin=U1-12
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=J2-3
+Added Pin To Net: NetName=PB1 Pin=U1-13
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=J2-4
+Added Pin To Net: NetName=PB2 Pin=U1-14
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=J2-5
+Added Pin To Net: NetName=PB3 Pin=U1-15
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=J2-6
+Added Pin To Net: NetName=PB4 Pin=U1-16
+Added Net: Name=PB4
+Added Pin To Net: NetName=PD0 Pin=J3-6
+Added Pin To Net: NetName=PD0 Pin=U1-2
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=J3-5
+Added Pin To Net: NetName=PD1 Pin=U1-3
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=J3-4
+Added Pin To Net: NetName=PD2 Pin=U1-6
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=J3-3
+Added Pin To Net: NetName=PD3 Pin=U1-7
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=J3-2
+Added Pin To Net: NetName=PD4 Pin=U1-8
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=J3-1
+Added Pin To Net: NetName=PD5 Pin=U1-9
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=J2-1
+Added Pin To Net: NetName=PD6 Pin=U1-11
+Added Net: Name=PD6
+Added Pin To Net: NetName=RESET Pin=J1-6
+Added Pin To Net: NetName=RESET Pin=J3-9
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCL Pin=J1-5
+Added Pin To Net: NetName=SCL Pin=J2-9
+Added Pin To Net: NetName=SCL Pin=U1-19
+Added Net: Name=SCL
+Added Class: Name=Attiny
