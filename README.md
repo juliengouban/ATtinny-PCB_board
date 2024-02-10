@@ -1,4 +1,4 @@
-# Projet de peinture en VR - Unity
+# Projet carte PCB ATtiny
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -33,7 +33,7 @@ L'ATiny choisit est le 2313A-PU. C'est une puce traversante qui possède 20 pins
 | ![alt text 1](picture_ATtiny/10-1.png) | j'ai ajouté deux connecteurs femelles de part et d'autres de l'ATtiny afin de facilement relier des composants à celle-ci. |
 
 
-## Asset Store
+## Arduino Factory
 
  * [Plus de détails sur le projet](https://arduinofactory.fr/carte-pcb-attiny/)
   
