@@ -13,8 +13,9 @@ L'ATiny choisit est le 2313A-PU. C'est une puce traversante qui possède 20 pins
 
 
 # Sommaire des fonctionnalités
-- [Schéma électronique](#les-différents-outils-disponible)
-- [Routage de la Carte PCB](#gestion-de-la-sélection-des-outils)
+- [Schéma électronique](#schéma-électronique)
+- [Routage de la Carte PCB](#routage-de-la-carte-pcb)
+  
 
 ## Schéma électronique 
 
