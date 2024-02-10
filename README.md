@@ -9,7 +9,7 @@ Ces petits composants électroniques sont connus pour leur taille compacte, leur
 Sur la carte PCB j'ai avons ajouté des connecteurs femelles afin d'utiliser l'ATtiny dans plein de configurations différentes et un connecteur mâle afin de programmer l'ATtiny. 
 L'ATiny choisit est le 2313A-PU. C'est une puce traversante qui possède 20 pins avec du SPI, de l'I2C et de l'UART.
 
-*Temps du projet : 2 jours *
+*Temps du projet : 2 jours*
 
 
 # Sommaire des fonctionnalités
