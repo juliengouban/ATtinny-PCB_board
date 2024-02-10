@@ -18,22 +18,21 @@ L'ATiny choisit est le 2313A-PU. C'est une puce traversante qui possède 20 pins
 - [Mini-jeu](#mini-jeu)
 - [Fonctionnalité supplementaire](#fonctionnalité-supplementaire)
 
-## Les différents outils disponible
+## Schéma électronique 
 [*(Back to top)*](#sommaire-des-fonctionnalités)
 
 
 | Démonstration | Explication |
 |---------|---------|
-| ![alt text 1](picture_ATtiny/carte_attiny.png) | **3 Interactions de peinture différentes** : Pinceau + Spray + Baguette magique |
-| ![alt text 1](GitImage/palette_mobile.gif) | **Une palette mobile de 4 couleur** : elle est attachée à la main gauche du joueur pour bouger en même temps que ce dernier|
+| ![alt text 1](picture_ATtiny/carte_attiny.png) | L'objectif de la carte était de faire un design le plus petit possible : 17mm x 33 mm. Ceci permet d'avoir un coût pour une carte assez faible : 12 dollars chez PCBWay.Pour programmer la carte ATtiny nous aurons besoin d'une carte Arduino afin d'y installer le bootloader puis le programme dans l'ATtiny.|
 
 
-## Gestion de la sélection des outils
+## Routage de la Carte PCB
 [*(Back to top)*](#sommaire-des-fonctionnalités)
 
 | Démonstration | Explication |
 |---------|---------|
-| ![alt text 1](GitImage/rangementPinceau.gif) | **Gestion chute outil** : pour ajouter plus de confort de jeu, si l'utilisateur lâche son pinceau celui-ci revient automatiquement à sa place initiale (sur la table), cela est possible grâce au script "StoreTool" qui hérite de "XRGrabInteractable"|
+| ![alt text 1](picture_ATtiny/carte_attiny_2D.png) | La carte PCB est constitué de deux couches Top Layer et Bottom Layer. Nous avons un connecteur mâle en haut de la carte afin de programmer celle-ci. Pour cela on utilise le SPI de la carte ATtiny que l'on reliera au SPI de la carte Arduino. Nous avons ajouté le +5V et le GND afin de facilement alimenter la carte une fois celle-ci programmé.|
 
 
 ## Mini-jeu
