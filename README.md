@@ -13,13 +13,10 @@ L'ATiny choisit est le 2313A-PU. C'est une puce traversante qui possède 20 pins
 
 
 # Sommaire des fonctionnalités
-- [Les différents outils disponible](#les-différents-outils-disponible)
-- [Gestion de la sélection des outils](#gestion-de-la-sélection-des-outils)
-- [Mini-jeu](#mini-jeu)
-- [Fonctionnalité supplementaire](#fonctionnalité-supplementaire)
+- [Schéma électronique](#les-différents-outils-disponible)
+- [Routage de la Carte PCB](#gestion-de-la-sélection-des-outils)
 
 ## Schéma électronique 
-[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 
 | Démonstration | Explication |
@@ -28,7 +25,6 @@ L'ATiny choisit est le 2313A-PU. C'est une puce traversante qui possède 20 pins
 
 
 ## Routage de la Carte PCB
-[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 | Démonstration | Explication |
 |---------|---------|
@@ -38,10 +34,9 @@ L'ATiny choisit est le 2313A-PU. C'est une puce traversante qui possède 20 pins
 
 ## Asset Store
 
-* [Plsu de détails sur le projet : ]([https://assetstore.unity.com/packages/3d/characters/animals/toon-fox-183005](https://arduinofactory.fr/carte-pcb-attiny/))
+ * [Plus de détails sur le projet](https://arduinofactory.fr/carte-pcb-attiny/)
   
 
-[*(Back to top)*](#sommaire-des-fonctionnalités)
 
 
 
